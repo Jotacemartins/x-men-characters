@@ -1,5 +1,5 @@
 <h1 align="center">
-  xmen - Dev em Dobro
+  Página de escolha dos personagens do desenho - X-men
 </h1>
 
 <p align="center">
